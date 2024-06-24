@@ -51,7 +51,7 @@ Give credit here.
 - This project is part of case study given by UPGRAD for Lending club 
 
 ## Contact
-Created by [Ruchi2430@githubusername] - feel free to contact me!
+Created by [Ruchi2430@githubusername] and [ruchikaagarwal6787] - feel free to contact !
 
 
 <!-- Optional -->
